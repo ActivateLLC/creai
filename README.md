@@ -1,9 +1,4 @@
-# Crea.dev IDE
-
-AI-powered collaborative development platform.
-
-## Features
-- Monaco Editor integration
-- Real-time collaboration with YJS
-- Claude/OpenAI code assistance  
-- One-click deployment
+{
+  "content": "IyBDcmVhLmRldiBJREUKCkFJLXBvd2VyZWQgY29sbGFib3JhdGl2ZSBkZXZlbG9wbWVudCBwbGF0Zm9ybS4KCiMjIEZlYXR1cmVzCi0gTW9uYWNvIEVkaXRvciBpbnRlZ3JhdGlvbgotIFJlYWwtdGltZSBjb2xsYWJvcmF0aW9uIHdpdGggWUpTCi0gQ2xhdWRlL09wZW5BSSBjb2RlIGFzc2lzdGFuY2UgIAotIE9uZS1jbGljayBkZXBsb3ltZW50",
+  "encoding": "base64"
+}
